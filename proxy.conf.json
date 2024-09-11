@@ -1,0 +1,8 @@
+{
+    "/api/**": {
+      "target": "mobile-city-production.up.railway.app",
+      "secure": false,
+      "logLevel":"debug",
+      "changeOrigin": true
+    }
+  }
